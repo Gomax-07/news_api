@@ -1,2 +1,3 @@
-venv/
+vitual/
 *.pyc
+instance/
